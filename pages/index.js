@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <div>
      This is home
+     <h2>This is home page from branch1</h2>
     </div>
   )
 }
