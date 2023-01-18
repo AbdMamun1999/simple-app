@@ -9,6 +9,7 @@ export default function Home() {
     <div>
      This is home
      <h2>This is home page from branch1</h2>
+     <h2>This is home page from branch1 new</h2>
     </div>
   )
 }
